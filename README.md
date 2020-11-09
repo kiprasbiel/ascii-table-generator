@@ -9,5 +9,6 @@ Generates ASCII table from a simple array
 Projekto aplanko konsolėje įrašykite: `> docker-compose up -d`
 
 Pasileidus konteineriams, peržiūrėti programą galite:
-- suvesdami `localhost` naršyklėje
-- per konsolę suvedu `> php console.php`
+- per konsolę suvedus `> php index.php`
+
+Sąrašas patalpintas `index.php`
